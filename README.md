@@ -1,6 +1,6 @@
 # Parameter estimation models using Julia
 
-This project was done as a part of a summer research internship conducted under the supervision of Dr. Yaroslav Molkov. The goal of the summer research project was to learn the Julia programming language, and use it to rewrite parts of existing C++ code as a fully differentiable program; and while doing so include various aspects of artificial learning. My part of the project was centered around creating various forward models to serve as datasets for a toy parameter estimation models powered by Neural ODEs and genetic algorithm. 
+This project was done as a part of a summer research internship conducted under the supervision of Dr. Yaroslav Molkov. The goal of the summer research project was to learn the Julia programming language, and use it to rewrite parts of existing C++ code as a fully differentiable program; and while doing so include various aspects of artificial learning. My part of the project was centered around creating various forward models to serve as datasets for a toy parameter estimation models powered by Neural ODEs and genetic algorithm.
 
 # Folders 
 ## Forward_data
