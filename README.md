@@ -19,4 +19,4 @@ Easy goals:
 
 Hard Goals
 1. Better optimization and personalization of training needs to be made.
-2. Upgrade the network architecture and use more sophesticated methods than genetic learning
+2. Upgrade the network architecture and use more sophesticated methods than genetic learning.
